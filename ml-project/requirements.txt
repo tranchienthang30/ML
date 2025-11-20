@@ -1,0 +1,7 @@
+numpy
+pandas
+polars
+xgboost==3.1.1
+joblib
+tqdm
+pyarrow
