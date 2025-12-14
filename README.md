@@ -1,6 +1,6 @@
-## Class: Machine Learning INT340SE_1
- **_Group 5_**
-## 👨‍💻 Author
+## Machine Learning INT3405E_1
+ **_Group 6: NATURE_INT3405E1_**
+## Author
 | Name                           | MSSV      |
 |--------------------------------|-----------|
 | Trần Chiến Thắng               | 23021725  |
