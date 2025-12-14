@@ -1,5 +1,5 @@
 ## Machine Learning INT3405E_1
- **_Group 6: NATURE_INT3405E1_**
+ **_Group 9: NATURE_INT3405E1_**
 ## Author
 | Name                           | MSSV      |
 |--------------------------------|-----------|
